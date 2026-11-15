@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="56" viewBox="0 0 850 56" role="img" aria-label="为清晰而设计，为规模而工程化">
+  <defs>
+    <linearGradient id="footer-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d0d7de" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#0969da" stop-opacity="0.55"/>
+      <stop offset="75%" stop-color="#1a7f37" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#d0d7de" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="10" width="850" height="1.5" fill="url(#footer-line)"/>
+  <text x="425" y="38" text-anchor="middle" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif" font-size="12.5" font-style="italic">为清晰而设计，为规模而工程化 · Designed for clarity, engineered for scale.</text>
+</svg>
